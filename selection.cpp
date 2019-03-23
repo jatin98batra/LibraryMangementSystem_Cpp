@@ -6,7 +6,13 @@ int selection(int choice)
 {
 	switch(choice)
 	{
-		
+	
+		case 0: 
+			{
+				exit(0);
+			
+			}	
+
 		case 1:	
 			{
 				book b1;
